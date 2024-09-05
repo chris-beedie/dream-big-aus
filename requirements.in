@@ -1,0 +1,6 @@
+pydantic
+pydantic_settings
+requests
+sqlalchemy
+pandas
+pydrive2
